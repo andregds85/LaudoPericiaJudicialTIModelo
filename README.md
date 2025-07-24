@@ -1,2 +1,1 @@
-# LaudoPericiaJudicialTIModelo
-Modelo de Laudo em Pericia Digital em TI
+# Modelo de Laudo em Pericia Digital em TI
